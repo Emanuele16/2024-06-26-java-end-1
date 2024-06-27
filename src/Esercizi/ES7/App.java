@@ -9,8 +9,6 @@ public class App {
         stampaImpiegati();
     }
 
-
-
     public static void creaImpiegati() {
         impiegati[0] = new Impiegato("Mario Rossi", 3000);
         impiegati[1] = new Manager("Luigi Bianchi", 5000, 1000);
