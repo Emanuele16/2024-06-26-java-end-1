@@ -37,6 +37,4 @@ public class App {
     public static void Risultati() throws VotoException{
         System.out.println(votazione);
     }
-
-
 }
